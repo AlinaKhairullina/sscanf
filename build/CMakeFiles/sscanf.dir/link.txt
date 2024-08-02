@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/sscanf.dir/src/mainscan.c.o CMakeFiles/sscanf.dir/src/sscanf.c.o -o sscanf  -lm 

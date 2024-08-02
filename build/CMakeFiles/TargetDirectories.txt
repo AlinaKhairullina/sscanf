@@ -1,0 +1,3 @@
+/home/alina/sscanf_function/build/CMakeFiles/sscanf.dir
+/home/alina/sscanf_function/build/CMakeFiles/edit_cache.dir
+/home/alina/sscanf_function/build/CMakeFiles/rebuild_cache.dir
